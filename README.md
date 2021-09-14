@@ -1,4 +1,8 @@
-Oi pessoal! Eu sou a Simone ❤️
+# Oi pessoal! Eu sou a Simone ❤️
+
+- :nerd_face: Faço Sistemas para Internet e estou focada em criar um portfólio bem legal para colocar em prática o que venho aprendendo!
+- :computer: Tenho conhecimento em html, css e js e paralelamente estudo ferramentas ágeis como JIRA, SCRUM, KANBAN
+- :smile: Em busca de novos desafios e aprendizados na área :)
 
 <a href="https://github.com/SimonePedrosa">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SimonePedrosa&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
