@@ -1,7 +1,7 @@
 # Oi pessoal! Eu sou a Simone ❤️
 
 - :nerd_face: Faço Sistemas para Internet e estou focada em criar um portfólio bem legal para colocar em prática o que venho aprendendo!
-- :computer: Tenho conhecimento em html, css e js e paralelamente estudo ferramentas ágeis como JIRA, SCRUM, KANBAN
+- :computer: Consultora de Software Atlassian
 - :smile: Em busca de novos desafios e aprendizados na área :)
 
 <a href="https://github.com/SimonePedrosa">
