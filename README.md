@@ -1,8 +1,11 @@
 # Oi pessoal! Eu sou a Simone ❤️
 
-- :nerd_face: Faço Sistemas para Internet e estou focada em criar um portfólio bem legal para colocar em prática o que venho aprendendo!
-- :computer: Consultora de Software Atlassian
-- :smile: Em busca de novos desafios e aprendizados na área :)
+- :nerd_face: Consultora Certificada Atlassian (ACP-620 • ACP-420)
+- :computer: Atuação no desenvolvimento de soluções dentro e fora do ecossistema Atlassian, com foco em:
+- Auditoria e rastreabilidade de configurações
+- Governança de ambientes Jira Cloud
+- Visibilidade operacional
+- :smile: Precisando de uma solução para sua empresa, entre em contato através dos links abaixo:
 
 <a href="https://github.com/SimonePedrosa">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SimonePedrosa&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
